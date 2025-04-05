@@ -1,0 +1,107 @@
+[
+  {
+    "module": "Frontend",
+    "submodules": [
+      {
+        "title": "User Interface Design",
+        "description": "An intuitive and responsive design that allows users to easily navigate through video categories, search for content, and access their profiles. The UI will be optimized for both desktop and mobile devices.",
+        "selected": true
+      },
+      {
+        "title": "Video Upload & Playback",
+        "description": "A seamless experience for users to upload videos with drag-and-drop functionality, along with a robust video player that supports various formats, resolutions, and adaptive streaming for optimal playback.",
+        "selected": true
+      },
+      {
+        "title": "Creator Dashboard",
+        "description": "A personalized dashboard for creators to manage their content, view analytics, track earnings from tips and subscriptions, and engage with their audience through comments and live chats.",
+        "selected": true
+      },
+      {
+        "title": "Trending & Discovery",
+        "description": "A dynamic section that showcases trending videos, recommended content based on user preferences, and a search feature that utilizes AI algorithms to enhance content discovery.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Backend",
+    "submodules": [
+      {
+        "title": "Decentralized Storage",
+        "description": "Utilizes decentralized storage solutions to securely store video content, ensuring that videos are accessible and resistant to censorship while maintaining high availability.",
+        "selected": true
+      },
+      {
+        "title": "API Development",
+        "description": "RESTful APIs that facilitate interactions between the frontend and backend, allowing for video uploads, user authentication, and real-time data retrieval for analytics and content moderation.",
+        "selected": true
+      },
+      {
+        "title": "Monetization Engine",
+        "description": "A robust system that manages creator earnings through various channels such as ad revenue, tips, and subscriptions, ensuring accurate tracking and timely payouts to creators.",
+        "selected": true
+      },
+      {
+        "title": "Content Moderation System",
+        "description": "An AI-powered moderation system that scans uploaded content in real-time for copyright violations and inappropriate material, ensuring compliance with community guidelines and copyright laws.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Blockchain Integration",
+    "submodules": [
+      {
+        "title": "NFT Creation & Management",
+        "description": "Enables creators to mint their videos as NFTs, providing proof of ownership and allowing for the sale and transfer of video rights, along with automated royalty distribution for secondary sales.",
+        "selected": true
+      },
+      {
+        "title": "Token Economy",
+        "description": "Establishes a token-based economy where users can tip creators, subscribe to channels, and participate in governance through token voting, enhancing user engagement and creator support.",
+        "selected": true
+      },
+      {
+        "title": "Self Protocol Integration",
+        "description": "Integrates Self Protocol for identity verification, ensuring that all creators are authenticated and their profiles are secure, fostering trust within the community.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Community Engagement",
+    "submodules": [
+      {
+        "title": "DAO Governance",
+        "description": "Empowers users to participate in the platform's decision-making process through a decentralized autonomous organization (DAO), allowing them to vote on trending content and platform features.",
+        "selected": true
+      },
+      {
+        "title": "Live Streaming Features",
+        "description": "Provides creators with the ability to host live streams with token-gated access, allowing viewers to participate in exclusive events and interact with creators in real-time.",
+        "selected": true
+      },
+      {
+        "title": "Feedback & Support System",
+        "description": "A dedicated system for users to provide feedback, report issues, and seek support, ensuring a responsive and engaged community that contributes to platform improvement.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Security & Compliance",
+    "submodules": [
+      {
+        "title": "Real-time Copyright Protection",
+        "description": "AI agents continuously monitor uploaded content for copyright infringement, automatically flagging and removing unauthorized content to protect creators' rights.",
+        "selected": true
+      },
+      {
+        "title": "User Data Protection",
+        "description": "Implementing robust security measures to protect user data and privacy, ensuring compliance with regulations such as GDPR and providing users with control over their personal information.",
+        "selected": true
+      }
+    ]
+  }
+]
